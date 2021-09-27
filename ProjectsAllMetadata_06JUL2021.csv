@@ -1,0 +1,31 @@
+"Data are current as of July 6, 2021.",,,
+All Metadata,,Datasets,
+One record per project (703 records/115 columns),,"One record per project per dataset  (4,449 records/9 columns)",
+Column,Definition,Column,Definition
+Proj ID,Four-digit project identification number,Proj ID,Four-digit project identification number
+Status,Project status,Status,Project status
+Title,Project title,Title,Project title
+RDC,Research Data Center name,RDC,Research Data Center name
+Start Year,Year project started,Start Year,Year project started
+End Year,Year project ended (if applicable),End Year,Year project ended (if applicable)
+PI,Principal investigator,PI,Principal investigator
+Abstract,Scientific abstract for project,DataName,Names of datasets requested for the project
+No. Datasets,Number of data sets requested for the project,DataCode,Codes for datasets requested for the project
+DataName1-DataName36,Names of datasets requested for the project,"Note:  Datasets are consolidated into major categories (e.g., all types of American Community Survey datasets - crosswalks, unedited microdata, paradata, etc. - are labeled ""ACS"" and de-duplicated)",
+DataCode1-DataCode36,Codes for datasets requested for the project,,
+No. Researchers,Number of active researchers on the project,,
+Researcher1- Researcher32,Names of active researchers on the project,Researchers,
+,,"One record per project per researcher (2,008 records/8 columns)",
+Abstracts,,Column,Definition
+One record per project (703 records/8 columns),,Proj ID,Four-digit project identification number
+Column,Definition,Status,Project status
+Proj ID,Four-digit project identification number,Title,Project title
+Status,Project status,RDC,Research Data Center name
+Title,Project title,Start Year,Year project started
+RDC,Research Data Center name,End Year,Year project ended (if applicable)
+Start Year,Year project started,PI,Principal investigator
+End Year,Year project ended (if applicable),Researcher,Names of researchers on the project
+PI,Principal investigator,"Note: 135 projects have no researchers listed (other than the PI); these are largely older, completed projects for",
+Abstract,Scientific abstract for project,which researcher data were not available in our management system,
+,,,
+,,,
